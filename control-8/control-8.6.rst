@@ -14,7 +14,7 @@ Collect DNS query audit logs on enterprise assets, where appropriate and support
 
 Dependencies
 ------------
-* Safegaurd 1.1: Establish and Maintain Detailed Enterprise Asset Inventory
+* Safeguard 1.1: Establish and Maintain Detailed Enterprise Asset Inventory
 * Safeguard 4.1: Establish and Maintain a Secure Configuration Process
 
 Inputs
